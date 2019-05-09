@@ -8,5 +8,5 @@ Splunk Technology Add-on for cmdReporter for CIM compliance and data normalizati
 **Add-on Version:** 0.3
 
 --- 
-### Note: This Add-on is still in beta ###
+### Note: This add-on is still in beta ###
 Use caution when installing this add-on in production environments.

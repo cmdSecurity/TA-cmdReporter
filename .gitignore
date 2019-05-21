@@ -1,6 +1,8 @@
+
 TA-cmdreporter/local/transforms.conf
 TA-cmdreporter/local/savedsearches.conf
 TA-cmdreporter/local/props.conf
+TA-cmdreporter/lookups/parent-child-process-mapping.csv
 *.tsidx
 TA-cmdreporter/lookups/parent-child-process-mapping.csv_1558444204.index/splunk-autogen-params.dat
 TA-cmdreporter/lookups/parent-child-process-mapping.csv_1558444204.index/splunk-need-optimize.dat

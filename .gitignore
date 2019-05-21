@@ -1,0 +1,12 @@
+
+TA-cmdreporter/local/transforms.conf
+TA-cmdreporter/local/savedsearches.conf
+TA-cmdreporter/local/props.conf
+TA-cmdreporter/lookups/parent-child-process-mapping.csv
+*.tsidx
+TA-cmdreporter/lookups/parent-child-process-mapping.csv_1558444204.index/splunk-autogen-params.dat
+TA-cmdreporter/lookups/parent-child-process-mapping.csv_1558444204.index/splunk-need-optimize.dat
+TA-cmdreporter/lookups/parent-child-process-mapping.csv_1558444204.index/updated_1558444204_sz_10761818.info
+TA-cmdreporter/lookups/parent-child-process-mapping.csv_1558447804.index/splunk-autogen-params.dat
+TA-cmdreporter/lookups/parent-child-process-mapping.csv_1558447804.index/splunk-need-optimize.dat
+TA-cmdreporter/lookups/parent-child-process-mapping.csv_1558447804.index/updated_1558447804_sz_10953576.info

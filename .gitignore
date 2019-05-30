@@ -4,3 +4,4 @@ TA-cmdreporter/lookups/parent-child-process-mapping.csv
 *.tsidx
 TA-cmdreporter/lookups/parent-child-process-mapping.csv_*
 TA-cmdreporter/metadata/local.meta
+TA-cmdreporter/lookups/parent-child-process-mapping.csv

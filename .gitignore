@@ -1,5 +1,6 @@
 
 TA-cmdreporter/local/*
 *.tsidx
-TA-cmdreporter/lookups/parent-child-process-mapping.*
+*.notes
+TA-cmdreporter/lookups/*
 TA-cmdreporter/metadata/local.meta

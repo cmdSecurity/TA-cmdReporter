@@ -4,3 +4,4 @@ TA-cmdreporter/local/*
 *.notes
 TA-cmdreporter/lookups/*
 TA-cmdreporter/metadata/local.meta
+TA_cmdReporter/default/tags-copy.conf

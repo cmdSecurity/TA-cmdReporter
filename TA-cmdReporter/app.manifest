@@ -3,7 +3,7 @@
   "info": {
     "title": "cmdReporter Add-on",
     "id": {
-      "name": "TA_cmdReporter",
+      "name": "TA-cmdReporter",
       "version": "1.2.0"
     },
     "author": [

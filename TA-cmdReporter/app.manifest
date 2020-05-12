@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "2.0.0",
+  "info": {
+    "title": "cmdReporter Add-on",
+    "id": {
+      "name": "TA-cmdReporter",
+      "version": "1.2.0"
+    },
+    "author": [
+      {
+        "name": "Dan Griggs",
+        "email": "support@cmdreporter.com",
+        "company": "cmdSecurity"
+      }
+    ],
+    "description": "Add-on used to parse events from macOS endpoints running cmdReporter"
+  },
+  "supportedDeployments": [
+    "_standalone",
+    "_distributed",
+    "_search_head_clustering"
+  ],
+  "targetWorkloads": ["_search_heads", "_indexers"]
+}

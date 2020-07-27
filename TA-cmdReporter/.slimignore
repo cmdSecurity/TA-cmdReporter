@@ -1,0 +1,8 @@
+local/
+savedsearches.conf
+metadata/local.meta
+.DS_STORE
+Thumbs.db
+default/indexes.conf
+default/transactiontypes.conf
+*.py[co]

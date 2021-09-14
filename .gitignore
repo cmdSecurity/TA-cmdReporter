@@ -1,6 +1,7 @@
 *.tsidx
 *.notes
 .DS_Store
+.idea
 TA-cmdreporter/local/*
 TA-cmdreporter/lookups/*
 TA-cmdreporter/metadata/local.meta

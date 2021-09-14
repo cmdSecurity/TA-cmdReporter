@@ -1,7 +1,7 @@
-
-TA-cmdreporter/local/*
 *.tsidx
 *.notes
+.DS_Store
+TA-cmdreporter/local/*
 TA-cmdreporter/lookups/*
 TA-cmdreporter/metadata/local.meta
 TA_cmdReporter/default/tags-copy.conf

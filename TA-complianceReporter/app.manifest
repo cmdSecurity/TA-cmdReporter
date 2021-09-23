@@ -3,9 +3,9 @@
   "info": {
     "title": "Jamf Compliance Reporter Add-on",
     "id": {
-      "name": "TA-compReporter",
+      "name": "TA-complianceReporter",
       "version": "1.3.0"
-    }
+    },
     "description": "Add-on used to parse events from macOS endpoints running jamf Compliance Reporter"
   },
   "supportedDeployments": [
